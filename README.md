@@ -13,3 +13,7 @@
 Отчет о багах https://github.com/LeviIos/Mobile/blob/main/DoroshevBug.numbers
 
 Общий отчет тестирования https://github.com/LeviIos/Mobile/blob/main/Отчет%20тестирования%20.pages
+
+## Перехватываем и изменяем трафик
+Charles Proxy для iPhone XCode 
+https://drive.google.com/file/d/17eFZXCD5oxdVOo2IadELUCqCrBpEe-g0/view?usp=sharing
